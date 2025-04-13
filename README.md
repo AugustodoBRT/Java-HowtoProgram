@@ -2,6 +2,6 @@
 
 # Java How to program
 
-# Exercícios do livro *Java: How to Program* - Deitel
+# Exercícios que eu fiz do livro *Java: How to Program* - Deitel
 
 ---
