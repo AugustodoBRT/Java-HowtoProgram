@@ -25,7 +25,7 @@ public class ex26 {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Insira o primeiro número: ");
-        System.out.println();
+       
         x = input.nextInt();
         System.out.println("Insira o segundo número: ");
         y = input.nextInt();
