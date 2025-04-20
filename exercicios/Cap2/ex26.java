@@ -1,4 +1,4 @@
-package Cap2;
+package Exercicios.Cap2;
 
 /* Escreva declarações, instruções ou comentários que realizem cada uma das tarefas a seguir: 
 a) Declare que um programa calculará o produto de três inteiros. 
@@ -25,6 +25,7 @@ public class ex26 {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Insira o primeiro número: ");
+        System.out.println();
         x = input.nextInt();
         System.out.println("Insira o segundo número: ");
         y = input.nextInt();
