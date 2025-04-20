@@ -1,4 +1,4 @@
-//Exercicio de IMC
+/*Exercicio de IMC */
 
 package Exercicios.Cap2;
 
